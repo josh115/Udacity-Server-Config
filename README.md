@@ -5,6 +5,7 @@
 - SSH Port: 2200
 - URL: http://ec2-3-9-135-49.eu-west-2.compute.amazonaws.com/
 - Password For grader User: grader
+- User SSH key sent in "Notes to Reviewer"
 
 ## Software
   Amazon Lightsail
