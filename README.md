@@ -1,4 +1,4 @@
-# Udacity-Server-Config
+# Linux-Server-Config
 
 ## Server Information
 - IP Address: 3.9.135.49
